@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "tags": [
+        "vba",
+        "excel-vba",
+        "xlsm"
+      ],
+      "owner": {
+        "reputation": 741,
+        "user_id": 7070298,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://i.stack.imgur.com/AyWmq.jpg?s=128&g=1",
+        "display_name": "Brad",
+        "link": "http://stackoverflow.com/users/7070298/brad"
+      },
+      "is_answered": true,
+      "view_count": 39,
+      "bounty_amount": 50,
+      "bounty_closes_date": 1487597168,
+      "accepted_answer_id": 42205963,
+      "answer_count": 1,
+      "score": 3,
+      "last_activity_date": 1487015726,
+      "creation_date": 1486659961,
+      "last_edit_date": 1487015726,
+      "question_id": 42142712,
+      "link": "http://stackoverflow.com/questions/42142712/closing-a-at-statup-open-all-files-in-file",
+      "title": "Closing a &quot;At statup, open all files in:&quot; file"
+    },
+    {
+      "tags": [
+        "swift",
+        "xcode",
+        "avassetwriter"
+      ],
+      "owner": {
+        "reputation": 84,
+        "user_id": 4744250,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://lh4.googleusercontent.com/-uoxl8tYq8Go/AAAAAAAAAAI/AAAAAAAAAHI/eiO3PvyEEjc/photo.jpg?sz=128",
+        "display_name": "Mike Schmidt",
+        "link": "http://stackoverflow.com/users/4744250/mike-schmidt"
+      },
+      "is_answered": false,
+      "view_count": 71,
+      "bounty_amount": 150,
+      "bounty_closes_date": 1487298135,
+      "answer_count": 0,
+      "score": 2,
+      "last_activity_date": 1487015370,
+      "creation_date": 1486513545,
+      "last_edit_date": 1487015370,
+      "question_id": 42102529,
+      "link": "http://stackoverflow.com/questions/42102529/recording-video-using-avasset-writer",
+      "title": "Recording Video Using AVAsset Writer?"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 10000,
+  "quota_remaining": 9990
+}

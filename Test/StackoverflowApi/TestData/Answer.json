@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "owner": {
+        "reputation": 651,
+        "user_id": 3454860,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/36d8d587bb86f0014ebfb3c1f208f074?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Han Soalone",
+        "link": "http://stackoverflow.com/users/3454860/han-soalone"
+      },
+      "is_accepted": true,
+      "score": 4,
+      "last_activity_date": 1486994657,
+      "creation_date": 1486994657,
+      "answer_id": 42205963,
+      "question_id": 42142712
+    }
+  ],
+  "has_more": false,
+  "quota_max": 10000,
+  "quota_remaining": 9985
+}
